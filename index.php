@@ -9,7 +9,7 @@ header("Content-Type: application/json");
 // Simulación de base de datos para el caso de estudio
 $usuarios_registrados = [
     ["user" => "admin", "pass" => "12345"],
-    ["user" => "camilo", "pass" => "sena2026"]
+    ["user" => "camilo", "pass" => "sena2025"]
 ];
 
 // Solo permitimos peticiones POST
